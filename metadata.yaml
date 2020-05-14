@@ -1,11 +1,16 @@
 _repo: The-Girls-of-Greycliff_62063
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62063-h/images/cover.jpg
 creator:
   author:
     agent_name: Grove, Harriet Pyne
     gutenberg_agent_id: '37167'
     url: http://www.gutenberg.org/2009/agents/37167
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62063#The-Girls-of-Greycliff
 gutenberg_issued: '2020-05-09'
 gutenberg_type: Text
 identifiers:
